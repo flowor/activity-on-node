@@ -1,0 +1,1 @@
+{"mappings":"AAAA,IAAIA,QACJA,QAAU,gBAGVC,SAASC,MAAMF","sources":["src/ts/app.ts"],"sourcesContent":["var message: string;\r\nmessage = \"Hello World 2\";\r\n\r\n// Write message to the world\r\ndocument.write(message);"],"names":["message","document","write"],"version":3,"file":"index.c6a6245a.js.map"}
