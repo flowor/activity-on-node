@@ -10,7 +10,7 @@ Input activities, predecessors, and durations to generate activity on node netwo
 
 ## Getting Started
 
-Visit the live [demo](http://)
+Visit the live [demo](https://flowor.github.io/activity-on-node/)
 
 ### Run locally
 ```
